@@ -2,7 +2,7 @@
 /* Body */
 body {
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
-	background-color: #222222;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAClJREFUeNpiFBQU5OXlZQADJmFhYQYYYPr16xeQ+vz5M4gDEYPIAwQYAJUPBptp0pKhAAAAAElFTkSuQmCC);
 	margin: 0;
 }
 /* Container */
