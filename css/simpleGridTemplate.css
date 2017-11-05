@@ -2,7 +2,7 @@
 /* Body */
 body {
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
-	background-color: #FFFFFF;
+	background-color: #222222;
 	margin: 0;
 }
 /* Container */
@@ -10,7 +10,7 @@ body {
 	width: 90%;
 	margin-left: auto;
 	margin-right: auto;
-	background-color: #FFFFFF;
+	background-color: #222222;
 }
 /* Header */
 header {
@@ -151,7 +151,7 @@ header {
 	text-align: center;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background-color: #717070;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAClJREFUeNpiFBQU5OXlZQADJmFhYQYYYPr16xeQ+vz5M4gDEYPIAwQYAJUPBptp0pKhAAAAAElFTkSuQmCC);
 	color: #FFFFFF;
 	text-transform: uppercase;
 	font-weight: lighter;
